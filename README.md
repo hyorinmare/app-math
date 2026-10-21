@@ -3,6 +3,8 @@
 App web (PWA) de révision pour la Terminale : **spécialité maths** + **maths expertes**.
 Elle s'installe sur iPhone depuis Safari, sans App Store.
 
+**En ligne : https://hyorinmare.github.io/app-math/** — chaque push sur `main` redéploie automatiquement (GitHub Actions → GitHub Pages).
+
 - **Fiches de cours** : 19 chapitres (définitions, théorèmes, méthodes, exemples) avec formules rendues par KaTeX.
 - **Quiz** : 3 à 4 questions par chapitre + un « quiz express » de 10 questions au hasard. Les meilleurs scores sont gardés.
 - **Exos à l'infini** : 20 types d'exercices aléatoires (dérivées, intégrales, suites, loi binomiale, complexes, congruences, PGCD, matrices…) avec vérification automatique et correction détaillée.
